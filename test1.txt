@@ -1,0 +1,3 @@
+git bash에서 mkdir로 testing이라는 파일을 만듦.
+code . 으로 vscode를 열어서 test1이라는 텍스트파일을 만듦.
+git add commit 하고 repository에 넣기를 할 것임.
